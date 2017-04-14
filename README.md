@@ -13,7 +13,7 @@
 
 
 ![类模板路径.png](http://upload-images.jianshu.io/upload_images/1304063-7f955f5525b70a8c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-- 文末可以下载自定义的模板CommonVC.xctemplate，然后拖到这个路径下，如图:
+- 把下载的模板CommonVC.xctemplate，拖到这个路径下，如图:
 
 ![1.png](http://upload-images.jianshu.io/upload_images/1304063-5c2f67245301855e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
