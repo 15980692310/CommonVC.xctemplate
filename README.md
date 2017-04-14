@@ -37,3 +37,6 @@
 图片是用来显示在New File的菜单上的，任意放一个自己喜欢的图片，像素138*138。
 
 ![2.png](http://upload-images.jianshu.io/upload_images/1304063-4c1a0b5ccfb085f2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+更详细的可以看我的简书：http://www.jianshu.com/p/95cb88d269a8
